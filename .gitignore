@@ -1,0 +1,8 @@
+﻿*.pyc
+__pycache__
+staticfiles
+.ipynb_checkpoints/
+.git/
+.vscode/
+h5/
+other/
